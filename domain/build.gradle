@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.fullcycle.admin.catalogo.domain'
+group 'com.admin.catalog.domain'
 version '1.0-SNAPSHOT'
 
 repositories {

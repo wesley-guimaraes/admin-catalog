@@ -1,4 +1,4 @@
-package com.fullcycle.admin.catalogo.application;
+package com.admin.catalog.application;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
